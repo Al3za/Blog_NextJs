@@ -1,3 +1,3 @@
-## NextJs blog
+## NextJs blog App
 
-Creating a Blog app with Next.js and Typescript with `cache` and `revalidation` on demand.
+A Blog App created with Next.js, Typescript, and server actions that `cache` data and `revalidate` cache data on demand (when a button clicks). 
